@@ -5,7 +5,7 @@
 > - https://youtube.com/shorts/5-K_XwZIKhw <br/>
 
 ### Working Prenciple
->When the Rotary Encoder rotates, the Arduino reads the data and sends it to the TM1637. and the stepper motor moves to the desired degree. You can see the position of the stepper motor and the degree you entered on the LCD screen. <br/>
+>When the Rotary Encoder rotates, the Arduino reads the data and sends it to the TM1637. <br/>
 
 ### Required Library
 > - [TM1637 Library](https://github.com/avishorp/TM1637) <br/>

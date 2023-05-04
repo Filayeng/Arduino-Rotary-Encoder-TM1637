@@ -2,7 +2,9 @@
 
 <img src="https://live.staticflickr.com/65535/52868520092_2f5b89183b_b.jpg" alt="thumbnail" class="center">
 
-> - https://youtube.com/shorts/5-K_XwZIKhw <br/>
+> - (https://www.instagram.com/reel/Crz6yqxo8g7/?utm_source=ig_web_copy_link) <br/>
+
+
 
 ### Working Prenciple
 >When the Rotary Encoder rotates, the Arduino reads the data and sends it to the TM1637. <br/>

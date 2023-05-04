@@ -1,6 +1,6 @@
 # Arduino-Rotary-Encoder-TM1637
 
-<img src="//live.staticflickr.com/65535/52868520092_2f5b89183b_b.jpg" alt="thumbnail" class="center">
+<img src="https://live.staticflickr.com/65535/52868520092_2f5b89183b_b.jpg" alt="thumbnail" class="center">
 
 > - https://youtube.com/shorts/5-K_XwZIKhw <br/>
 
